@@ -1,0 +1,5 @@
+com\example\verses\App.class
+module-info.class
+com\example\verses\modal\Verses.class
+com\example\verses\database\Database.class
+com\example\verses\FXMLController.class
